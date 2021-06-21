@@ -1,5 +1,0 @@
-first commit
-second commit
-
-##
-git branch code check first
